@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+uploads/
+models_faces/
+*.pyc
+*.pyo
+*.log
